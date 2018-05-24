@@ -1,0 +1,22 @@
+{
+  "name": "jsonpeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapserver2007/jsonpeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapserver2007/jsonpeteer/issues"
+  },
+  "homepage": "https://github.com/mapserver2007/jsonpeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
+}
